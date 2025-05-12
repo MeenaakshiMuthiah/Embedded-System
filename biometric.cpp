@@ -15,7 +15,7 @@
 #define GREENLED1 33
 
 const char *ssid = "V2031";
-const char *password = "viki19.01";
+const char *password = "*********";
 void SensorFingerBegin();
 AsyncWebServer server(80);
 HardwareSerial serialPort(2); // Use UART2
